@@ -18,12 +18,10 @@
   },
   "homepage": "https://github.com/Rocklee9979/learningStripe#readme",
   "dependencies": {
+    "dotenv": "^14.3.2",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "nodemon": "^2.0.15",
     "stripe": "^8.200.0"
-  },
-  "devDependencies": {
-    "dotenv": "^14.3.2"
   }
 }
